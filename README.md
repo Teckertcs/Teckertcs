@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics and security
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tatyana.e1277@gmail.com
+- 📫 How to reach me...
 
 <!---
 Teckertcs/Teckertcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
